@@ -55,8 +55,6 @@ Dive into concurrent programming with goroutines and channels.
    git clone https://github.com/yourusername/go-with-flow.git
    ```
 
-````
-
 2. Navigate to the specific section you want to explore:
 
    ```bash
