@@ -12,7 +12,7 @@ Welcome to the "Go with Flow" repository! This is a learning resource for Go (Go
 
 Start with the fundamentals of Go programming language.
 
-- [Hello World](basics/hello_world.go)
+- [Hello World](01_Hello/main.go)
 - [Variables and Data Types](basics/variables_and_data_types.go)
 - ...
 
