@@ -9,7 +9,7 @@ import (
 func main() {
 	welcome := "Welcome to user input"
 	fmt.Println(welcome)
-	reader:=bufio.NewReader(os.Stdin)
+	reader:=bufio.NewReader(os.Stdin) // library to get input from user
 	fmt.Println("Enter the rating for our Pizza")
 
 	//comma ok || err err

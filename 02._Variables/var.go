@@ -34,7 +34,7 @@ func main() {
 	var website = "Dev.dev"
 	fmt.Println(website)
 
-	//no var style4
+	//no var style4	
 
 	numberOfuser :=300000
 	fmt.Println(numberOfuser)
