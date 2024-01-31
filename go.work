@@ -1,3 +1,9 @@
 go 1.21.6
 
-use ./01_Hello
+use (
+	./01_Hello
+	./02._Variables
+	./03_userInput
+	./04_Conversions
+	./05_timeHandling
+)
