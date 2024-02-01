@@ -6,4 +6,7 @@ use (
 	./03_userInput
 	./04_Conversions
 	./05_timeHandling
+	./06_Pointers
+	./07_Arrays
+	./08_Slices
 )
