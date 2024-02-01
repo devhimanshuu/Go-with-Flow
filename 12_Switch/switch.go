@@ -20,8 +20,11 @@ func main(){
 		fmt.Println("you can move 2 spots")
 	case 3:
 		fmt.Println("you can move 3 spots")
+		fallthrough
 	case 4:
 		fmt.Println("you can move 4 spots")
+		fallthrough
+		// use to execute next case also
 	case 5:
 		fmt.Println("you can move 5 spots")
 	case 6:
