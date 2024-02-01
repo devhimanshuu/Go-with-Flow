@@ -9,4 +9,9 @@ use (
 	./06_Pointers
 	./07_Arrays
 	./08_Slices
+	./09_Maps
+	./10_Structs
+	./11_ifElse
+	./12_Switch
+	./13_Loops
 )
