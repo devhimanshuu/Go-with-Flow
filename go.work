@@ -14,4 +14,8 @@ use (
 	./11_ifElse
 	./12_Switch
 	./13_Loops
+	./14_functions
+	./15_Method
+	./16_defer
+	./17_Files
 )
