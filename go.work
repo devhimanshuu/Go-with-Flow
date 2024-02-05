@@ -18,4 +18,10 @@ use (
 	./15_Method
 	./16_defer
 	./17_Files
+	./18_webRequest
+	./19_HandlingUrl
+	./20_GetRequest
+	./21_PostRequest
+	./22_SendForm
+	./23_Jsondata
 )
