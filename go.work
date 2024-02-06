@@ -24,4 +24,5 @@ use (
 	./21_PostRequest
 	./22_SendForm
 	./23_Jsondata
+	./24_Jsondata2
 )
