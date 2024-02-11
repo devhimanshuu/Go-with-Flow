@@ -25,4 +25,6 @@ use (
 	./22_SendForm
 	./23_Jsondata
 	./24_Jsondata2
+	./25_Module
+	./26_APIs
 )
